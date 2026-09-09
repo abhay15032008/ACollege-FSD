@@ -41,5 +41,5 @@ if(event.code=="KeyU"){
 }else if(event.code=="KeyD"){
     console.log("character moves backward");
 
-}
+}u
 });
